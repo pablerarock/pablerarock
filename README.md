@@ -5,18 +5,16 @@ Hoje estudo programação em geral, Back-End / Front-End
 - ✔ Faculdade Descomplica - Tecnólogo Computação em Nuvem
 - 💻 Estudando Linguagem de Programação: Reduct & React | JavaScript | CSS | HMTL | Firebase | Next.JS | VS.Code
 - 🎯 Objetivo: Continuar programando e adquirindo conhecimento na area de Desenvolvimento Web.
- 
-<div>
+
+
+  <div align = "center">
   <a href="https://github.com/pablerarock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablerarock&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablerarock&layout=compact&langs_count=7&theme=dark"/>
- 
-
-  
 </div>
  
- 
- ## 
+  ## 
   
   
 <div style="display: inline_block"><br>
@@ -50,8 +48,4 @@ Hoje estudo programação em geral, Back-End / Front-End
   <div>
     <img align="left" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47e9e4ccfct1g4d4pnidgggnkw59ktozelah4vi4vr&rid=200.webp&ct=g">
   </div>
-  
-  
-  
-
  
