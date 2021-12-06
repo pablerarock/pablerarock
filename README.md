@@ -3,7 +3,7 @@
 Hoje estudo programação em geral, Back-End / Front-End
 
 - ✔ Faculdade Descomplica - Tecnólogo Computação em Nuvem
-- 💻 Estudando Linguagem de Programação: Reduct & React | JavaScript | CSS | HMTL | Firebase | Next.JS | VS.Code
+- 💻 Estudando Linguagem de Programação: Angular 9 | HTML | CSS | JavaScript | Reduct & React Firebase | Next.JS | Vue.Js | Node.Js | VS.Code
 - 🎯 Objetivo: Continuar programando e adquirindo conhecimento na area de Desenvolvimento Web!
 
 
