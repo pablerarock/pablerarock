@@ -16,7 +16,7 @@ Hoje estudo programação em geral, Back-End / Front-End
 
 <div style="display: inline_block"><br>
   
-   <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://miro.medium.com/max/522/1*qRKMMAGVMLfp_q7RAux3Zg.png">
+   <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://miro.medium.com/max/256/1*3H6_a9Srb655m3NiqlbbKQ.png">
   <img align="center" alt="Pablo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pablo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
