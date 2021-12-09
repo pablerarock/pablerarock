@@ -11,7 +11,7 @@ Hoje estudo programação em geral, Back-End / Front-End
 <div align="center">
   <a href="https://github.com/pablerarock">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablerarock&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablerarock&layout=compact&theme=dracula)
+  <https://github-readme-stats.vercel.app/api/top-langs/?username=pablerarock&layout=compact&theme=dracula>
 </div>
 
 <div style="display: inline_block"><br>
