@@ -8,7 +8,7 @@ Hoje estudo programação em geral, Back-End / Front-End
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pablerarock&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=dracula" width="440"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablerarock&langs_count=8)](https://github.com/pablerarock/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablerarock&langs_count=8)](https://github.com/pablerarock/github-readme-stats"
 
 <div style="display: flex;">
   <h6>Languages:</h6>
