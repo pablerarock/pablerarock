@@ -13,9 +13,14 @@ Hoje estudo programação em geral, Back-End / Front-End
 
 <div style="display: flex;">
   <h6>Languages:</h6>
-  <img src="https://img.shields.io/badge/HTML-%20?style=flat-square&logo=html5&logoColor=white&color=700f0a" height="16" />
-  <img src="https://img.shields.io/badge/JAVA-%20?style=flat-square&logo=java&logoColor=white&color=3e0928" height="16" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-%20?style=flat-square&logo=typescript&logoColor=white&color=1f053a" height="16" />
+  <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://pronama.jp/wp-content/uploads/2017/02/angular.png">
+  <img align="center" alt="Pablo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pablo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Pablo-HMTL5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pablo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
 
   <h6>Frameworks:</h6>
   <img src="https://img.shields.io/badge/VUE.JS-%20?style=flat-square&logo=vue.js&logoColor=white&color=550b1a" height="16" />
