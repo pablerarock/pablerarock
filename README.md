@@ -30,22 +30,14 @@ Hoje estudo programação em geral, Back-End / Front-End
 
 </div>
 &nbsp;
-<a href="#">
-  <img align="right" src="https://komarev.com/ghpvc/?username=pablerarock&style=flat-square" height="20" />
-</a>
 
+  <a href="https://instagram.com/pablera_rock" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a>
+    
+  <a href = "mailto:pablodm22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+  <a href="https://www.linkedin.com/in/pablo-machado-2510421a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-
+  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
-<a target="_blank" href="https://13dev.pt">
-  <img align="right" src="https://user-images.githubusercontent.com/17799292/129621864-671e1a24-953e-4ab3-883b-6be90385d89e.png" height="20" width="20"/>
-</a>
-<a target="_blank" href="https://linkedin.com/in/pablo-machado-2510421a0">
-  <img align="right" src="https://user-images.githubusercontent.com/17799292/129457914-2b555141-8514-4918-8c25-38b5f8ec2939.png" height="20" width="20" />
-</a>
-
-<a target="_blank" href="https://gitlab.com/pablerarock">
-  <img align="right" src="https://user-images.githubusercontent.com/17799292/129620557-469dd0b5-c912-453c-813e-d158d180fb40.png" height="20" width="20" />
-</a>
 
 ---
 
