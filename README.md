@@ -41,8 +41,8 @@ Hoje estudo programação em geral, Back-End / Front-End
   <a href = "mailto:pablodm22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-
   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a target="_blank" href="https://gitlab.com/pablerarock">
-  <img align="right" src="https://user-images.githubusercontent.com/17799292/129620557-469dd0b5-c912-453c-813e-d158d180fb40.png" height="20" width="20" />
+   <a target="_blank" href="https://13dev.pt">
+  <img align="right" src="https://user-images.githubusercontent.com/17799292/129621864-671e1a24-953e-4ab3-883b-6be90385d89e.png" height="20" width="20"/>
 </a>
   
 </div>
