@@ -9,9 +9,8 @@ Hoje estudo programação em geral, Back-End / Front-End
 
 
 <div align="center">
-  <a href="https://github.com/pablerarock">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablerarock&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <https://github-readme-stats.vercel.app/api/top-langs/?username=pablerarock&layout=compact&theme=dracula>
+    <img src="https://github-readme-stats.vercel.app/api?username=pablerarock&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablerarock&layout=compact&theme=graywhite&hide_border=true" width="313" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -23,6 +22,15 @@ Hoje estudo programação em geral, Back-End / Front-End
   <img align="center" alt="Pablo-HMTL5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+  <h6>Frameworks:</h6>
+  
+  <img src="https://img.shields.io/badge/LARAVEL-%20?style=flat-square&logo=laravel&logoColor=white&color=811100" height="16" />
+  <img src="https://img.shields.io/badge/LUMEN-%20?style=flat-square&logo=lumen&logoColor=white&color=6b0e0d" height="16" />
+  <img src="https://img.shields.io/badge/VUE.JS-%20?style=flat-square&logo=vue.js&logoColor=white&color=550b1a" height="16" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-%20?style=flat-square&logo=bootstrap&logoColor=white&color=3d0829" height="16" />
+  <img src="https://img.shields.io/badge/BULMA-%20?style=flat-square&logo=bulma&logoColor=white&color=230538" height="16" />
+  <img src="https://img.shields.io/badge/TAILWIND-%20?style=flat-square&logo=Tailwind%20CSS&logoColor=white&color=01004d" height="16" />
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067">
 </div>
