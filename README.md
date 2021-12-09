@@ -9,12 +9,13 @@ Hoje estudo programação em geral, Back-End / Front-End
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pablerarock&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablerarock&layout=compact&theme=graywhite&hide_border=true" width="313" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pablerarock&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=dracula" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablerarock&layout=compact&theme=dracula&hide_border=true" width="313" />
 </div>
 
 <div style="display: inline_block"><br>
   
+  <h6>Linguagens:</h6>
    <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://pronama.jp/wp-content/uploads/2017/02/angular.png">
   <img align="center" alt="Pablo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pablo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
